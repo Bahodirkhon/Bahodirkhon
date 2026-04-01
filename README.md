@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bahodirxon Mahmudov
+# 👋 Hello, I'm Bahodikhon Makhmudov
 
 🚀 Frontend Developer focused on scalable web applications & AI systems
 
