@@ -2,6 +2,7 @@
 
 🚀 Frontend Developer focused on scalable web applications & AI systems
 
+[![github-trophy](https://github-profile-trophy.vercel.app/?Bahodirkhon)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 🧠 About Me
