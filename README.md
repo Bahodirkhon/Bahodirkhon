@@ -24,7 +24,7 @@
   </a>
 </p>
 
-- **Languages:** TypeScript
+- **Languages:** TypeScript & JavaScript
 - **Frameworks:** React & Next.js
 - **Tools:** RESTful API Design, Git & Cloud Deployment
 
