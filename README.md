@@ -5,18 +5,19 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bahodirkhon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-🧠 **About Me**
+### 🧠 About Me
 
 - Frontend JavaScript Engineer (TypeScript-first)
 - Building production-grade systems with React & Next.js
 
 ---
 
-⚙️ **Tech Stack**
+### ⚙️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,7 +31,7 @@
 
 ---
 
-📌 **Current Focus**
+### 📌 Current Focus
 
 - AI-driven Frontend Applications
 - Scalable Frontend Architecture
@@ -48,7 +49,14 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
+
 <p align="left">
-<a href="https://bahodirxonweb.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="bahodirxonweb" /></a>
+  <a href="https://bahodirxonweb.vercel.app" target="_blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
 </p>
