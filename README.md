@@ -50,5 +50,5 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://bahodirxonweb.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="bahodirxonweb" /></a>
+<a href="https://bahodirxonweb.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="bahodirxonweb" /></a>
 </p>
