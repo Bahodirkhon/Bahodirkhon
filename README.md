@@ -6,7 +6,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bahodirkhon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bahodirkhon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
