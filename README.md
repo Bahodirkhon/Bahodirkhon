@@ -4,6 +4,10 @@
 
 ---
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bahodirkhon&color=blueviolet&style=flat-square&label=Profile+Views)
+
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bahodirkhon&theme=onedark)
