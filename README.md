@@ -4,10 +4,6 @@
 
 ---
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Bahodirkhon&color=blueviolet&style=flat-square&label=Profile+Views)
-
 ### 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bahodirkhon&theme=onedark)
@@ -49,6 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bahodirkhon&show_icons=true&theme=dark&hide_border=true" alt="Bahodirkhon Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahodirkhon&theme=dark&hide_border=true" alt="Bahodirkhon Streak" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Bahodirkhon&color=blueviolet&style=flat-square&label=Profile+Views)
 </p>
 
 ---
