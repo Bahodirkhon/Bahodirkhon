@@ -47,7 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahodirkhon&theme=dark&hide_border=true" alt="Bahodirkhon Streak" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bahodirkhon&color=blueviolet&style=flat-square&label=Profile+Views&base=200)---
+![Profile Views](https://komarev.com/ghpvc/?username=Bahodirkhon&color=blueviolet&style=flat-square&label=Profile+Views&base=200)
 
 ### 🌐 Connect with me
 
