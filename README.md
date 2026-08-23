@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats & Streak
 
 <p align="left">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Bahodirkhon&show_icons=true&theme=dark&hide_border=true" alt="Bahodirkhon Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bahodirkhon&show_icons=true&theme=dark&hide_border=true" alt="Bahodirkhon Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahodirkhon&theme=dark&hide_border=true" alt="Bahodirkhon Streak" />
 </p>
